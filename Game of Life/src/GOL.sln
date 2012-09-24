@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOL", "GOL\GOL.csproj", "{E20C7B25-9BB6-4A96-9D4A-D8A729102B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOL.BL", "GOL.BL\GOL.BL.csproj", "{CBCD27DE-1A8B-430D-B203-5EF5D8CD8035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOL.Tests", "GOL.Tests\GOL.Tests.csproj", "{10FA7488-4377-4230-A161-5F785CA5BEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E20C7B25-9BB6-4A96-9D4A-D8A729102B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20C7B25-9BB6-4A96-9D4A-D8A729102B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20C7B25-9BB6-4A96-9D4A-D8A729102B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20C7B25-9BB6-4A96-9D4A-D8A729102B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBCD27DE-1A8B-430D-B203-5EF5D8CD8035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCD27DE-1A8B-430D-B203-5EF5D8CD8035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCD27DE-1A8B-430D-B203-5EF5D8CD8035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCD27DE-1A8B-430D-B203-5EF5D8CD8035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10FA7488-4377-4230-A161-5F785CA5BEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FA7488-4377-4230-A161-5F785CA5BEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FA7488-4377-4230-A161-5F785CA5BEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FA7488-4377-4230-A161-5F785CA5BEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
